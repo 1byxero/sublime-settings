@@ -1,0 +1,14 @@
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "Gotham Theme",
+        "Package Control",
+        "Pylinter",
+        "Python PEP8 Autoformat",
+        "Theme - Soda SolarizedDark"
+    ]
+}
